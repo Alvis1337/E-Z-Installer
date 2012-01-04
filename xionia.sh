@@ -1,0 +1,1 @@
+su -c "boot-recovery' > /cache/recovery/command --update_package=SDCARD:xioniakernel.zip' >> /cache/recovery/command"
